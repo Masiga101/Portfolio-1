@@ -225,7 +225,9 @@ nav .humberger-menu .close-icon{
 /* /////////////////////////Forms////////////////////////// */
 
 
-
+.hidden{
+  display: none;
+}
 
 
 input:-webkit-autofill,
