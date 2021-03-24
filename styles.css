@@ -96,7 +96,7 @@ nav .humberger-menu .close-icon{
 /* ////////////////////About//////////////////////////// */
 
 .about{
-    margin-top: 6rem;
+    margin-top: 3rem;
 }
 
 .about .about-title{
@@ -187,7 +187,7 @@ nav .humberger-menu .close-icon{
 /* //////////////////////////////Resume///////////////////////////// */
 
  .proffesional-summary, .education{
-     margin-bottom: 2rem;
+     margin-bottom: 1rem;
      padding: 2rem;
      width: 75%;
      border-left: 3px solid var(--links);
@@ -382,7 +382,7 @@ textarea.input {
 .back-to-top{
   display: none;
   position: fixed;
-  left: 94%;
+  left: 90%;
   bottom: 3rem;
   width: 10rem;
 }
