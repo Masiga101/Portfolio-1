@@ -1,7 +1,7 @@
 const test = document.createElement("div")
 document.querySelector(".about-title").after(test)
 test.classList.add("about-underline")
-console.log(test);
+
 
 
 
@@ -50,7 +50,6 @@ $(document).ready(function() {
 });
 
 $(document).ready(()=>{
-  console.log($(window).width());
   if($(window).width() > 1000){
     
 $(document).ready(function() {
