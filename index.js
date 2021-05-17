@@ -6,16 +6,6 @@ test.classList.add("about-underline")
 
 
 
-// Typed.js Effect
-var typed = new Typed('.element', {
-  strings: ["A web-Developer.", "A Web-designer", "A Son.", "and..... ", " ...Much more"],
-  typeSpeed: 100,
-  loop: true,
-  backDelay: 1000,
-  backSpeed: 80, 
-});
-
-
 // ///////////Humberger
 $(".humberger-menu").click(()=>{ 
   
