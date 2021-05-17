@@ -110,9 +110,11 @@ nav .humberger-menu .close-icon{
 
 .tagline{
   color: var(--primary);
-  text-decoration: underline;
 }
 
+.o{
+  text-decoration: underline;
+}
 
 
 .about-underline{
